@@ -1,0 +1,10 @@
+body{
+    background-image: url("./backround.jpg");
+    background-position: center center;  
+    
+}
+
+.icon-svg{
+    width: 100px;
+    height:100px;
+}

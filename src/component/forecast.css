@@ -1,0 +1,28 @@
+.def{
+    margin: auto;    
+}
+
+.def>div{
+    height: 140px;
+    width: 110px; 
+    margin: 3px;
+    background-color: rgb(201, 202, 202);
+
+    
+    }
+.def>div>h6{
+    font-size: 10px;
+}
+.def>div>img{
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+.def>div>h6>img{
+    width: 25px;
+    height: 25px;
+}
+.def>div>h5{
+    font-size: 15px;
+    text-align: center;
+}

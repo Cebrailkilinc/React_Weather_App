@@ -1,0 +1,14 @@
+.drop-menu{
+  
+    border: 1px solid ;
+    background: none;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+
+.drop-menu-item{
+    background: none;
+    border-radius: 10px;
+   
+}
